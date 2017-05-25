@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.university.iLernus",
+    "app_id" : "com.kmimos.iLernus",
     "appname": "iLernus",
     "versioncode" : "20172",
     "versionname" : "3.2.2",
@@ -11,7 +11,7 @@
     "demo_sites": "",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://university.ilernus.com/",
+    "siteurl": "http://kmimos.ilernus.com/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
