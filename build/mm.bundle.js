@@ -51885,7 +51885,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.kmimos.iLernus",
-    "appname": "kmimos iLernus",
+    "appname": "kmimos",
     "versioncode" : "20171",
     "versionname" : "3.2.1",
     "cache_expiration_time" : 300000,
